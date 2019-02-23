@@ -1,5 +1,6 @@
 # classic-arcade-game
-A browser-based classic arcade game, done as a part of Udacity's Front End Web Developer Nanodegree.
+A browser-based classic arcade game, done as a part of Udacity's Front End Web Developer Nanodegree. This is published using gh-pages at https://riyadashoriya.github.io/classic-arcade-game/
+
 
 ![alt text](https://github.com/riyadashoriya/classic-arcade-game/blob/master/ArcadeGameUi.png "Game Preview")
 
